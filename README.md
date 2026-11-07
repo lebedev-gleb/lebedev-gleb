@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/about.svg?v=5" width="100%" alt="Education, languages, frameworks, databases and tools" />
+  <img src="assets/about.svg?v=6" width="100%" alt="Education, languages, frameworks, databases and tools" />
 </p>
 
 <p align="center">
